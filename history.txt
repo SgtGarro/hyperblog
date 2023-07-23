@@ -11,4 +11,10 @@ Actually, he is an average student.
 
 Main 1
 
+<<<<<<< HEAD
 Main 2
+=======
+Experiment 2
+
+Main 1
+>>>>>>> b14e915 (Exp 2)
