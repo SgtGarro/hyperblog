@@ -27,6 +27,15 @@ body {
   font-size: 14px;
   font-weight: 600;
 }
+.header .header--logo {
+  width: 36px;
+  height: 36px;
+  background: url("../images/dragon.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-right: 12px;
+}
 
 .container {
   width: 70%;
