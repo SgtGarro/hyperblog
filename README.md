@@ -8,3 +8,4 @@ A hyperblog for Platzi Github course
 - Github workflow
 - Good practices
 - Freddy's multiple personalities
+- Created by Marcelo Garro (SgtGarro)
