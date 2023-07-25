@@ -10,3 +10,4 @@ A hyperblog for Platzi Github course
 - Freddy's multiple personalities
 - Created by Marcelo Garro (SgtGarro)
 - Examples included on Linux, Windows and MacOS
+- Available for all ages.
